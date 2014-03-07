@@ -1,5 +1,5 @@
 # URL Link
-A simple modifier for Statamic
+## A simple variable modifier for Statamic
 
 This will take a URL and turn it into a link with just the domain.
 
